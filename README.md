@@ -1,6 +1,8 @@
 # Portafolio-BarryID
 👋 Hola, soy Irwin David Barragán Peña
 
+prueba dos de que valio mauser
+
 Soy un Desarrollador Full Stack con experiencia en tecnologías web y modelado 2D/3D. Me apasiona la programación, la automatización y el análisis de datos. Actualmente, estoy cursando la certificación IBM Full Stack Cloud Developer para fortalecer mis habilidades en la nube y DevOps.
 
 🚀 Tecnologías y Habilidades
